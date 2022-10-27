@@ -1,5 +1,5 @@
 
-#Reder_template é uma função flask do Python.
+#Render_template é uma função flask do Python.
 
 from flask import Flask, render_template
 
